@@ -1,0 +1,8 @@
+{
+  "name": "Black scorpion vs code warrior",
+  "description": "High-fidelity RAG-enabled AI developer companion. Resolves terminal errors, orchestrates multi-cloud deployments, and manages project knowledge via the Neural Vault.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
